@@ -1,0 +1,47 @@
+body{
+    background: #0d3349;
+}
+.form-login{
+    margin-top: 13%;
+}
+.outter-form-login {
+    padding: 20px;
+    background: #EEEEEE;
+    position: relative;
+    border-radius: 5px;
+}
+.logo-login {
+    position: absolute;
+    font-size: 35px;
+    background: #21A957;
+    color: #FFFFFF;
+    padding: 10px 18px;
+    top: -40px;
+    border-radius: 50%;
+    left: 40%;
+}
+.inner-login .form-control {
+    background: #D3D3D3;
+}
+h3.title-login {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.forget {
+    margin-top: 20px;
+    color: #ADADAD;
+}
+.btn-custom-green {
+    background: #21A957;
+    color: #fff;
+}
+a{color:#00505E}
+a:hover{text-decoration:none}
+div.komentar{background-color:#B8DCDC;padding:5;
+    border-bottom:#036885 1px solid;font-family:verdana;font-size:8pt}
+div.inputkomen{display:none}
+#msgloading{position:absolute;z-index:1000;top:300;left:200;
+    width:200;height:80;background-color:#648BFF;border:#003FFB 1px solid;display:none}
+div.komentar2{padding:5;background-color:#DEEFEF;color:#316464}
+.inputteks1{border:#036885 1px solid}
