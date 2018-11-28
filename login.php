@@ -10,7 +10,7 @@
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport" />
 	<meta content="" name="description" />
 	<meta content="" name="author" />
-	
+
 	<!-- ================== BEGIN BASE CSS STYLE ================== -->
 	<link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
 	<link href="assets/plugins/jquery-ui/themes/base/minified/jquery-ui.min.css" rel="stylesheet" />
@@ -43,7 +43,7 @@ if (isset($_GET['error'])) : ?>
             <!-- begin brand -->
             <div class="login-header">
                 <div class="brand">
-                    <center><h4>TRUCKING MANAGEMENT SYSTEM</h4>
+                    <center><h4>TRUCKING MANAGEMENT SYSTEM edit</h4>
                     <small>PT. Sinar Jatimitra</center></small>
                 </div>
             </div>
@@ -63,7 +63,7 @@ if (isset($_GET['error'])) : ?>
             </div>
         </div>
         <!-- end login -->
-        
+
         <!-- begin theme-panel -->
         <div class="theme-panel">
             <a href="javascript:;" data-click="theme-panel-expand" class="theme-collapse-btn"><i class="fa fa-cog"></i></a>
@@ -142,7 +142,7 @@ if (isset($_GET['error'])) : ?>
         <!-- end theme-panel -->
 	</div>
 	<!-- end page container -->
-	
+
 	<!-- ================== BEGIN BASE JS ================== -->
 	<script src="assets/plugins/jquery/jquery-1.9.1.min.js"></script>
 	<script src="assets/plugins/jquery/jquery-migrate-1.1.0.min.js"></script>
@@ -156,11 +156,11 @@ if (isset($_GET['error'])) : ?>
 	<script src="assets/plugins/slimscroll/jquery.slimscroll.min.js"></script>
 	<script src="assets/plugins/jquery-cookie/jquery.cookie.js"></script>
 	<!-- ================== END BASE JS ================== -->
-	
+
 	<!-- ================== BEGIN PAGE LEVEL JS ================== -->
 	<script src="assets/js/apps.min.js"></script>
 	<!-- ================== END PAGE LEVEL JS ================== -->
-	
+
 	<script>
 		$(document).ready(function() {
 			App.init();
@@ -171,7 +171,7 @@ if (isset($_GET['error'])) : ?>
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','../../../../www.google-analytics.com/analytics.js','ga');
-    
+
       ga('create', 'UA-53034621-1', 'auto');
       ga('send', 'pageview');
     </script>
