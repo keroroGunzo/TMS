@@ -43,7 +43,7 @@ if (isset($_GET['error'])) : ?>
             <!-- begin brand -->
             <div class="login-header">
                 <div class="brand">
-                    <center><h4>TRUCKING MANAGEMENT SYSTEM edit</h4>
+                    <center><h4>TRUCKING MANAGEMENT SYSTEM edit maneh</h4>
                     <small>PT. Sinar Jatimitra</center></small>
                 </div>
             </div>
